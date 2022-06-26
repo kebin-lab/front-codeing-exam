@@ -37,10 +37,12 @@ function App() {
 
   return (
     <div>
-      <header>Title</header>
-      <main>
+      <header className="Title">
+        <h2>Title</h2>
+      </header>
+      <main className="Main">
         <div>
-          <h2>都道府県</h2>
+          <h2 className="MainTitle">都道府県</h2>
           <div>
             <PrefectureCheckBox
               prefectureLists={prefectureLists}
