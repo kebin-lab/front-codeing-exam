@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.Title {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #c0c0c0;
+  width: 100%;
+  text-align: center;
+}
+
+.Main {
+  margin-top: 70px;
+}
+
+.MainTitle {
+  padding: 10px;
+  margin: 0;
+}
