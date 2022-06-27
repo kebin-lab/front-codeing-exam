@@ -38,7 +38,7 @@ function App() {
   return (
     <div>
       <header className="Title">
-        <h2>Title</h2>
+        <h2>都道府県別人口の推移</h2>
       </header>
       <main className="Main">
         <div>
